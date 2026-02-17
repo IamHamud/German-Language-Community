@@ -2,6 +2,12 @@
 
 A community-maintained German-English learning dataset with vocabulary, grammar rules, and example sentences organized by CEFR proficiency levels (A1-C1).
 
+## Project Status
+
+> **Active Development** - This project is currently under active development. Data and features may change without prior notice.
+
+We welcome contributions from educators, linguists, developers, and German language enthusiasts. Your help in improving accuracy, adding new content, and reporting errors is greatly appreciated.
+
 ## Overview
 
 This dataset is designed to help developers build language learning applications, researchers study German linguistics, and educators create learning materials.
@@ -168,3 +174,13 @@ This dataset powers the German Language API, a free REST API for German language
 For questions, issues, or suggestions, please open an issue on this repository.
 
 Maintainer: [@IamHamud](https://github.com/IamHamud)
+
+## Disclaimer
+
+**No Warranty**: This dataset is provided "as is" without warranty of any kind, express or implied. The maintainers make no guarantees regarding accuracy, completeness, or fitness for any particular purpose.
+
+**Limitation of Liability**: In no event shall the maintainers be liable for any damages arising from the use of this data.
+
+**User Responsibility**: Users are responsible for verifying data accuracy for their specific use cases. This resource is intended for educational purposes and should not be the sole reference for critical applications.
+
+**Third-Party Use**: We are not responsible for how third parties use, modify, or redistribute this data. Any misuse of this dataset is solely the responsibility of those parties.
