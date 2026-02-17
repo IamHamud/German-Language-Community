@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Vocabulary Entry",
+  "description": "Schema for German vocabulary entries",
+  "type": "object",
+  "required": ["german", "english", "pos"],
+  "properties": {
+    "german": {
+      "type": "string",
+      "description": "German word"
+    },
+    "english": {
+      "type": "string",
+      "description": "English translation"
+    },
+    "gender": {
+      "type": "string",
+      "enum": ["der", "die", "das"],
+      "description": "Grammatical gender for nouns"
+    },
+    "pos": {
+      "type": "string",
+      "enum": ["noun", "verb", "adjective", "adverb", "preposition", "conjunction", "pronoun", "interjection", "article"],
+      "description": "Part of speech"
+    },
+    "example_de": {
+      "type": "string",
+      "description": "Example sentence in German"
+    },
+    "example_en": {
+      "type": "string",
+      "description": "Example sentence in English"
+    },
+    "plural": {
+      "type": "string",
+      "description": "Plural form for nouns"
+    },
+    "conjugation": {
+      "type": "object",
+      "description": "Verb conjugation forms"
+    }
+  }
+}

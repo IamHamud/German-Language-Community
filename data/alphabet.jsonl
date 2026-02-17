@@ -1,0 +1,43 @@
+{"id": "alpha_001", "type": "letter", "letter": "A a", "name": "Ah", "pronunciation": "Like 'a' in 'father'", "example_word_de": "Apfel", "example_word_en": "apple", "ipa": "/aː/"}
+{"id": "alpha_002", "type": "letter", "letter": "B b", "name": "Beh", "pronunciation": "Like English 'b'", "example_word_de": "Buch", "example_word_en": "book", "ipa": "/beː/"}
+{"id": "alpha_003", "type": "letter", "letter": "C c", "name": "Tseh", "pronunciation": "Like 'ts' before e/i, like 'k' otherwise", "example_word_de": "Computer", "example_word_en": "computer", "ipa": "/tseː/"}
+{"id": "alpha_004", "type": "letter", "letter": "D d", "name": "Deh", "pronunciation": "Like English 'd'", "example_word_de": "Danke", "example_word_en": "thank you", "ipa": "/deː/"}
+{"id": "alpha_005", "type": "letter", "letter": "E e", "name": "Eh", "pronunciation": "Like 'e' in 'bed' (short) or 'ay' in 'say' (long)", "example_word_de": "Essen", "example_word_en": "food / to eat", "ipa": "/eː/"}
+{"id": "alpha_006", "type": "letter", "letter": "F f", "name": "Eff", "pronunciation": "Like English 'f'", "example_word_de": "Freund", "example_word_en": "friend", "ipa": "/ɛf/"}
+{"id": "alpha_007", "type": "letter", "letter": "G g", "name": "Geh", "pronunciation": "Like 'g' in 'go' (always hard)", "example_word_de": "Garten", "example_word_en": "garden", "ipa": "/ɡeː/"}
+{"id": "alpha_008", "type": "letter", "letter": "H h", "name": "Hah", "pronunciation": "Like English 'h', silent after vowels", "example_word_de": "Haus", "example_word_en": "house", "ipa": "/haː/"}
+{"id": "alpha_009", "type": "letter", "letter": "I i", "name": "Ih", "pronunciation": "Like 'ee' in 'see' (long) or 'i' in 'sit' (short)", "example_word_de": "Ich", "example_word_en": "I", "ipa": "/iː/"}
+{"id": "alpha_010", "type": "letter", "letter": "J j", "name": "Jott", "pronunciation": "Like 'y' in 'yes'", "example_word_de": "Jahr", "example_word_en": "year", "ipa": "/jɔt/"}
+{"id": "alpha_011", "type": "letter", "letter": "K k", "name": "Kah", "pronunciation": "Like English 'k'", "example_word_de": "Kind", "example_word_en": "child", "ipa": "/kaː/"}
+{"id": "alpha_012", "type": "letter", "letter": "L l", "name": "Ell", "pronunciation": "Like English 'l'", "example_word_de": "Liebe", "example_word_en": "love", "ipa": "/ɛl/"}
+{"id": "alpha_013", "type": "letter", "letter": "M m", "name": "Emm", "pronunciation": "Like English 'm'", "example_word_de": "Mutter", "example_word_en": "mother", "ipa": "/ɛm/"}
+{"id": "alpha_014", "type": "letter", "letter": "N n", "name": "Enn", "pronunciation": "Like English 'n'", "example_word_de": "Nacht", "example_word_en": "night", "ipa": "/ɛn/"}
+{"id": "alpha_015", "type": "letter", "letter": "O o", "name": "Oh", "pronunciation": "Like 'o' in 'go' (long) or 'o' in 'not' (short)", "example_word_de": "Opa", "example_word_en": "grandpa", "ipa": "/oː/"}
+{"id": "alpha_016", "type": "letter", "letter": "P p", "name": "Peh", "pronunciation": "Like English 'p'", "example_word_de": "Park", "example_word_en": "park", "ipa": "/peː/"}
+{"id": "alpha_017", "type": "letter", "letter": "Q q", "name": "Kuh", "pronunciation": "Always paired with 'u', like 'kv'", "example_word_de": "Quelle", "example_word_en": "source", "ipa": "/kuː/"}
+{"id": "alpha_018", "type": "letter", "letter": "R r", "name": "Err", "pronunciation": "Guttural/uvular 'r' (back of throat)", "example_word_de": "Rot", "example_word_en": "red", "ipa": "/ɛʁ/"}
+{"id": "alpha_019", "type": "letter", "letter": "S s", "name": "Ess", "pronunciation": "Like 'z' before vowels, like 's' at end", "example_word_de": "Sonne", "example_word_en": "sun", "ipa": "/ɛs/"}
+{"id": "alpha_020", "type": "letter", "letter": "T t", "name": "Teh", "pronunciation": "Like English 't'", "example_word_de": "Tag", "example_word_en": "day", "ipa": "/teː/"}
+{"id": "alpha_021", "type": "letter", "letter": "U u", "name": "Uh", "pronunciation": "Like 'oo' in 'moon' (long) or 'u' in 'put' (short)", "example_word_de": "Uhr", "example_word_en": "clock", "ipa": "/uː/"}
+{"id": "alpha_022", "type": "letter", "letter": "V v", "name": "Fau", "pronunciation": "Like 'f' in German words, like 'v' in foreign words", "example_word_de": "Vater", "example_word_en": "father", "ipa": "/faʊ̯/"}
+{"id": "alpha_023", "type": "letter", "letter": "W w", "name": "Veh", "pronunciation": "Like English 'v'", "example_word_de": "Wasser", "example_word_en": "water", "ipa": "/veː/"}
+{"id": "alpha_024", "type": "letter", "letter": "X x", "name": "Iks", "pronunciation": "Like English 'x'", "example_word_de": "Xylophon", "example_word_en": "xylophone", "ipa": "/ɪks/"}
+{"id": "alpha_025", "type": "letter", "letter": "Y y", "name": "Ypsilon", "pronunciation": "Like 'ü' in German words, like 'y' in foreign words", "example_word_de": "Yoga", "example_word_en": "yoga", "ipa": "/ˈʏpsilɔn/"}
+{"id": "alpha_026", "type": "letter", "letter": "Z z", "name": "Tsett", "pronunciation": "Like 'ts' in 'bits'", "example_word_de": "Zeit", "example_word_en": "time", "ipa": "/tsɛt/"}
+{"id": "alpha_027", "type": "letter", "letter": "Ä ä", "name": "Ah-Umlaut", "pronunciation": "Like 'e' in 'bed'", "example_word_de": "Ärger", "example_word_en": "anger / annoyance", "ipa": "/ɛː/"}
+{"id": "alpha_028", "type": "letter", "letter": "Ö ö", "name": "Oh-Umlaut", "pronunciation": "Like 'u' in 'burn' (lips rounded, say 'e')", "example_word_de": "Öl", "example_word_en": "oil", "ipa": "/øː/"}
+{"id": "alpha_029", "type": "letter", "letter": "Ü ü", "name": "Uh-Umlaut", "pronunciation": "Like 'ew' in 'few' (lips rounded, say 'ee')", "example_word_de": "Über", "example_word_en": "over / about", "ipa": "/yː/"}
+{"id": "alpha_030", "type": "letter", "letter": "ß", "name": "Eszett / scharfes S", "pronunciation": "Like a sharp 'ss' — never at start of a word", "example_word_de": "Straße", "example_word_en": "street", "ipa": "/s/"}
+{"id": "combo_001", "type": "combination", "letter": "ch", "name": "—", "pronunciation": "Soft after e/i (like 'sh' but throatier); hard after a/o/u (like clearing throat)", "example_word_de": "ich / Buch", "example_word_en": "I / book", "ipa": "/ç/ or /x/"}
+{"id": "combo_002", "type": "combination", "letter": "sch", "name": "—", "pronunciation": "Like English 'sh' in 'ship'", "example_word_de": "Schule", "example_word_en": "school", "ipa": "/ʃ/"}
+{"id": "combo_003", "type": "combination", "letter": "sp", "name": "—", "pronunciation": "Like 'shp' at start of a word", "example_word_de": "Sprache", "example_word_en": "language", "ipa": "/ʃp/"}
+{"id": "combo_004", "type": "combination", "letter": "st", "name": "—", "pronunciation": "Like 'sht' at start of a word", "example_word_de": "Straße", "example_word_en": "street", "ipa": "/ʃt/"}
+{"id": "combo_005", "type": "combination", "letter": "ei", "name": "—", "pronunciation": "Like 'eye' or 'i' in 'mine'", "example_word_de": "Eins", "example_word_en": "one", "ipa": "/aɪ̯/"}
+{"id": "combo_006", "type": "combination", "letter": "ie", "name": "—", "pronunciation": "Like 'ee' in 'see' (long ee)", "example_word_de": "Liebe", "example_word_en": "love", "ipa": "/iː/"}
+{"id": "combo_007", "type": "combination", "letter": "eu / äu", "name": "—", "pronunciation": "Like 'oy' in 'boy'", "example_word_de": "Freund / Häuser", "example_word_en": "friend / houses", "ipa": "/ɔʏ̯/"}
+{"id": "combo_008", "type": "combination", "letter": "au", "name": "—", "pronunciation": "Like 'ow' in 'how'", "example_word_de": "Haus", "example_word_en": "house", "ipa": "/aʊ̯/"}
+{"id": "combo_009", "type": "combination", "letter": "ck", "name": "—", "pronunciation": "Like English 'ck' — shortens the preceding vowel", "example_word_de": "Brücke", "example_word_en": "bridge", "ipa": "/k/"}
+{"id": "combo_010", "type": "combination", "letter": "th", "name": "—", "pronunciation": "Just a 't' sound (NOT like English 'th')", "example_word_de": "Theater", "example_word_en": "theater", "ipa": "/t/"}
+{"id": "combo_011", "type": "combination", "letter": "pf", "name": "—", "pronunciation": "Both letters pronounced: 'p' then 'f'", "example_word_de": "Pferd", "example_word_en": "horse", "ipa": "/p͡f/"}
+{"id": "combo_012", "type": "combination", "letter": "ng", "name": "—", "pronunciation": "Like 'ng' in 'sing' (no hard 'g')", "example_word_de": "Ring", "example_word_en": "ring", "ipa": "/ŋ/"}
+{"id": "combo_013", "type": "combination", "letter": "qu", "name": "—", "pronunciation": "Pronounced 'kv'", "example_word_de": "Quelle", "example_word_en": "source", "ipa": "/kv/"}
