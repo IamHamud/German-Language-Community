@@ -173,7 +173,7 @@ This dataset powers the German Language API, a free REST API for German language
 
 For questions, issues, or suggestions, please open an issue on this repository.
 
-Maintainer: [@IamHamud](https://github.com/IamHamud)
+Maintainer: [@IamHamud](https://github.com/IamHamud) | [LinkedIn](https://www.linkedin.com/in/iamhamud/)
 
 ## Disclaimer
 
